@@ -116,43 +116,6 @@ Secure Meet
 
 -----------------------------------
 
-### :guide_dog: Installation Guide
-
-A step by step series of examples that tell you how to get a development env running
-
-In your cmd:
-
-```
-git clone https://github.com/ExpressMailer/ExpressMailer.git
-```
-
-Then,
-
-```
-cd ExpressMailer
-```
-
-Next
-
-
-Edit in the firebase.js, enter your credentials for following fields
-
-```
-apiKey: process.env.apiKey || "AIzaSyA6rWV50lGnmBOqfVJ6fasf234UeCjtt_U",
-authDomain: process.env.authDomain || "clone-f47f.firebaseapp.com",
-projectId: process.env.projectId || "clone-f27f",
-storageBucket: process.env.storageBucket || "clone-f47f.appspot.com",
-messagingSenderId: process.env.messagingSenderId || "1086223462538",
-appId: process.env.appId || "1:108622354062538:web:f3f54243f24fee5c1f721e73"
-```
-Then
-
-```
-npm i
-npm start
-```
-
-You are done with the setup now!
 
 ------------------------------------------
 
