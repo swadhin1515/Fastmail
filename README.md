@@ -30,13 +30,7 @@ Thus, our project helps building single page, highly customizable and scalable m
 </p>
 
 ------------------------------------------
-### Why does the application looks similar to Gmail?
-<p>
-  After knowing that Whatsapp was going to change it's Privacy Policies, It was expected that users would start using alternatives like Signal/Hike but that wasn't the case.
-  Analyzing Signal/Hike vs Whatsapp situation, Users don't tend to accept the changes because users were used to UI they were using since long. 
-  Thus, we tried to keep the UI as similar as Gmail.
- </p>
- 
+
 ------------------------------------------
 ### Preview
 
