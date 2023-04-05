@@ -156,11 +156,6 @@ You are done with the setup now!
 
 ------------------------------------------
 
-### 📝 To-do List
-
-- [ ] Add Email Queuing, Snooze a mail, create drafts.
-- [ ] Implement other near features like Gmail.
-- [ ] Create App for the same. 
 
 ------------------------------------------
 
