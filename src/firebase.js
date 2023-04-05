@@ -2,7 +2,7 @@ import firebase from 'firebase'
 
 const firebaseConfig = {
     apiKey: process.env.apiKey || "AIzaSyA6rWV50SdKlGnmnBOqfVJ6lu4UeCjtt_U",
-    authDomain: process.env.authDomain || "clone-f427f.firebaseapp.com",
+    authDomain: process.env.authDomain || "642d211192ede560d7625433--graceful-dango-80a49b.netlify.app",
     projectId: process.env.projectId || "clone-f427f",
     storageBucket: process.env.storageBucket || "clone-f427f.appspot.com",
     messagingSenderId: process.env.messagingSenderId || "1086229062538",
@@ -16,4 +16,4 @@ const auth = firebase.auth()
 const storage = firebase.storage()
 const provider = new firebase.auth.GoogleAuthProvider()
 
-export { db,auth,provider,storage }
+export { db, auth, provider, storage }
